@@ -1,6 +1,6 @@
 # run using ./scripting_basics.sh
 
-CONTEXT: Today (7/31/20) is my dad's 66th birthday and my parents took my son to the zoo. Ty.
+CONTEXT: Today (7/31/20) is my dad's 66th birthday and my parents took my son to the zoo. I based some of the code on this fact. Ty.
 
 
 - code for traversy media beginners guide to bash scripting
