@@ -5,6 +5,7 @@
     content: "";
     display: table;
     clear: both;
+    padding: 10px;
   }
 }
 
@@ -12,6 +13,7 @@
 
 $primary-font-stack: "Helvetica Neue",Helvetica,Arial,sans-serif;
 $primary-color: #333;
+
 $success-color: #3c763d;
 $warning-color: #8a6d3b;
 $error-color: #a94442;
@@ -51,10 +53,6 @@ body {
   border: 1px solid #990000;
   background: #fff;
 }
-
-// Exercise 4: Add Response Classes
-// Add the following classes to main.scss update the style declarations so that redundant values are called as variables.
-
 
 .text-success {
   color: $success-color;

@@ -16,13 +16,15 @@ body {
 .clearfix:after {
   content: "";
   display: table;
-  clear: both; }
+  clear: both;
+  padding: 10px; }
 
 /** Rows and Columns */
 .row:after {
   content: "";
   display: table;
-  clear: both; }
+  clear: both;
+  padding: 10px; }
 
 .col {
   float: left;
